@@ -1,7 +1,5 @@
 # AbaloneMachineLearningProject
-Created a machine learning project that predicts the age of abalone given parameters such as the width, weight, sex, and other descriptions of the snails.
-
-This is one of my first truly independent machine learning projects.
+Created a machine learning personal project that predicts the age of abalone given parameters such as the width, weight, sex, and other features of the snails.
 
 Here is the workflow of what I accomplished:
 
