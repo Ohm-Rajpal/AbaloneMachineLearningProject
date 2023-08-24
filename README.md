@@ -1,4 +1,4 @@
-# AbaloneMachineLearningProject
+# Abalone Machine Learning Project
 I created a machine learning (ML) project that predicts the age of abalone given parameters such as the width, weight, sex, and other descriptions of the snails.
 
 Here is the workflow of what I accomplished:
